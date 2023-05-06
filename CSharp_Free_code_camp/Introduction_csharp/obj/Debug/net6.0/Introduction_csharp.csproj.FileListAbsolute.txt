@@ -1,0 +1,15 @@
+F:\CF_A\CSharp_Free_code_camp\Introduction_csharp\bin\Debug\net6.0\Introduction_csharp.exe
+F:\CF_A\CSharp_Free_code_camp\Introduction_csharp\bin\Debug\net6.0\Introduction_csharp.deps.json
+F:\CF_A\CSharp_Free_code_camp\Introduction_csharp\bin\Debug\net6.0\Introduction_csharp.runtimeconfig.json
+F:\CF_A\CSharp_Free_code_camp\Introduction_csharp\bin\Debug\net6.0\Introduction_csharp.dll
+F:\CF_A\CSharp_Free_code_camp\Introduction_csharp\bin\Debug\net6.0\Introduction_csharp.pdb
+F:\CF_A\CSharp_Free_code_camp\Introduction_csharp\obj\Debug\net6.0\Introduction_csharp.csproj.AssemblyReference.cache
+F:\CF_A\CSharp_Free_code_camp\Introduction_csharp\obj\Debug\net6.0\Introduction_csharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\CF_A\CSharp_Free_code_camp\Introduction_csharp\obj\Debug\net6.0\Introduction_csharp.AssemblyInfoInputs.cache
+F:\CF_A\CSharp_Free_code_camp\Introduction_csharp\obj\Debug\net6.0\Introduction_csharp.AssemblyInfo.cs
+F:\CF_A\CSharp_Free_code_camp\Introduction_csharp\obj\Debug\net6.0\Introduction_csharp.csproj.CoreCompileInputs.cache
+F:\CF_A\CSharp_Free_code_camp\Introduction_csharp\obj\Debug\net6.0\Introduction_csharp.dll
+F:\CF_A\CSharp_Free_code_camp\Introduction_csharp\obj\Debug\net6.0\refint\Introduction_csharp.dll
+F:\CF_A\CSharp_Free_code_camp\Introduction_csharp\obj\Debug\net6.0\Introduction_csharp.pdb
+F:\CF_A\CSharp_Free_code_camp\Introduction_csharp\obj\Debug\net6.0\Introduction_csharp.genruntimeconfig.cache
+F:\CF_A\CSharp_Free_code_camp\Introduction_csharp\obj\Debug\net6.0\ref\Introduction_csharp.dll

@@ -80,7 +80,7 @@ void pvi(vector<int>& arr) // print 1d arr
 }
 void pvi(vector<ll>& arr) // print 1d arr
 {
-    for (auto e : arr) cout << e << "\n";
+    for (auto e : arr) cout << e << " ";
     cout << endl;
 }
 void pvvi(vector<vector<int>>& all) // print 2d arr
@@ -111,9 +111,7 @@ vector<string> split(string s, string delimiter) // split a string
     return res;
 }
 
-const int mx = 1e7;
-// vector<ll> dp(mx, -1);
-ll n;
+
 
 bool calc(ll m) {
     return 0;
@@ -177,8 +175,8 @@ void bs2() {
 
     cout << ans << endl;
 }
-
 bool isprime(int n) {
+
 
     if (n == 0 || n == 1) {
         return false;
@@ -194,8 +192,38 @@ bool isprime(int n) {
     return true;
 }
 
+const int mx = 1e7;
+// vector<ll> dp(mx, -1);
+vector<ll> a(2e5, 0);
 
 void fn() {
+    ll n;
+    cin >> n;
+    a.resize(n, 0);
+
+    for (int i = 0; i < n;i++) {
+        cin >> a[i];
+    }
+    sort(all(a));
+    // pvi(a);
+
+
+    ll sum = 1;
+    if (a[0] > sum) {
+        no;
+        return;
+    }
+
+    for (ll i = 1; i < n; i++) {
+        if (a[i] > sum) {
+            no;
+            return;
+        }
+        sum += a[i];
+    }
+
+    yes;
+    return;
 
 }
 

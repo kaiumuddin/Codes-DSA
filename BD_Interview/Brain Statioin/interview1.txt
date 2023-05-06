@@ -1,0 +1,15 @@
+Phase 1: MCQ Based Remote Online Test
+This remote online test lasted for an hour and the topics were limited to database, basic OOP concepts, data structure, output tracing, and analytical abilities. Proteeti did not prepare for this online test at all since it covered pretty much very basic concepts. The only challenge she felt was to manage to answer all the questions within the given time constraint.
+
+Proteeti’s online test went well and she got invited to the next phase.
+
+Phase 2: Written Test
+The written test had 30 questions of 100 marks to be answered in 1 hour and 30 minutes. The questions were in two different formats:
+
+Written (carrying 55% marks): 2 problem-solving questions, 1 algorithmic question, 3 incomplete code snippets implementing data structures that needed to be completed by the candidate
+MCQ (carrying 45% marks): covering OOP, database, data structure, output tracing, and analytical concepts
+This time, Proteeti found the MCQ portion, in particular, the database and the output tracing parts, to be relatively difficult.
+
+Proteeti took a significant amount of preparation prior to sitting for the written test. She utilized the Codeforces and the HackerRank platforms to practice implementations of various data structures and algorithms. HackerRank also provided her enough practice resources for SQL. She brushed up OOP concepts from the GeeksforGeeks platform.
+
+Proteeti’s written test also went well and she got invited to the next phase.

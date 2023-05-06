@@ -196,7 +196,27 @@ bool isprime(int n) {
 
 
 void fn() {
+    int n;
+    cin >> n;
 
+    string s;
+    cin >> s;
+
+    for (int i = 0; i < n; i++) {
+        char c = s[i];
+        int pos = i % 2;
+
+        for (int j = 0; j < n; j++) {
+            if (s[j] == s[i]) {
+                if (i % 2 != j % 2) {
+                    no;
+                    return;
+                }
+            }
+        }
+    }
+    yes;
+    return;
 }
 
 int main()

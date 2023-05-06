@@ -197,6 +197,24 @@ bool isprime(int n) {
 
 void fn() {
 
+    //hello
+    int n;      cin >> n;
+    string s;   cin >> s;
+
+    int x = 0, y = 0;
+
+    for (auto c : s) {
+        if (c == 'U') y++;
+        else if (c == 'D') y--;
+        else if (c == 'R') x++;
+        else if (c == 'L') x--;
+
+        if (x == 1 and y == 1) {
+            yes;
+            return;
+        }
+    }
+    no;
 }
 
 int main()

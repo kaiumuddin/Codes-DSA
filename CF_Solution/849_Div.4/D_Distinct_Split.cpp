@@ -196,7 +196,30 @@ bool isprime(int n) {
 
 
 void fn() {
+    int  n;
+    cin >> n;
+    string str;
+    cin >> str;
 
+    int ans = 0;
+    set<char> st;
+    vector<int> pref(n, 0), suff(n, 0);
+
+    for (int i = 0; i < n; i++) {
+        st.insert(str[i]);
+        pref[i] = st.size();
+    }
+    st.clear();
+    for (int i = n - 1; i >= 0; i--) {
+        st.insert(str[i]);
+        suff[i] = st.size();
+    }
+
+    for (int i = 0; i < n - 1; i++) {
+        ans = max(ans, pref[i] + suff[i + 1]);
+    }
+
+    cout << ans << endl;
 }
 
 int main()

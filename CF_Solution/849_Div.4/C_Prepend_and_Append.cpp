@@ -196,6 +196,26 @@ bool isprime(int n) {
 
 
 void fn() {
+    int n;
+    cin >> n;
+    string s; cin >> s;
+
+    int l = 0, r = s.size() - 1;
+
+    int ans = s.size();
+
+    while (l < r) {
+        if (s[l] != s[r]) {
+            ans -= 2;
+        }
+        else {
+            break;
+        }
+        l++;
+        r--;
+    }
+
+    cout << ans << endl;
 
 }
 

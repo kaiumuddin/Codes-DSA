@@ -1,0 +1,130 @@
+# Moon Knight Rules
+
+## As a team leader
+
+    milestone dewar por planning krte hbe
+    decision sunte hbe
+    601- 602 : query Tariq vai
+    603- rest : query Istiaque vai
+
+## scrum leader
+
+    - meet link in general channel,
+    - join before 1 minute.
+    - each member teke kajer clearly update newa
+    - scrum e screenshot dite hbe meet session er.
+
+## who is scrum lead: Kaium Uddin, others
+
+    - All 602 team leader @Md. Kawsar  @Md Siam Al Rafi  @Mehadi Hassan @Kaium Uddin @Rakib Hasan
+    - general section e meet link dite hbe.
+    - general section e permissioin dewa hbe.
+
+## Scrup Code and Time
+
+    স্ক্রাম কোড: ৬০২
+    
+    টিম এর নাম: code-warriors (602.1), creative_coders (602.2), moon-night-batch-6 (602.3), knight-commandos (602.4), matrix_coders (602.5)
+    
+    @Md. Kawsar  @Md Siam Al Rafi  @MD.Mehedi Hassan @Kaium Uddin  @Rakib Hasan
+    
+    Morning Scrum time: 10:15 AM
+    Evening Scrum time: 7:30 PM
+
+### All members from 602
+
+#### MK-602.1 Team Code Warriors
+
+    Md Kawsar-Team lead
+    Abu Saleh Rony
+    Md Rifat Mia
+    Subrota chandra sarker
+    Abier Farzana Hoque
+    Mahfuz Alam
+
+#### MK-602.2 Team Creative_Coders
+
+    Md Siam Al Rafi -Team lead
+    Sabbir Hossen
+    Md Sarwar Zaman Tuhin
+    Resalat Islam
+    Md Mehedi Hasan Tonmoy
+    Asif Iqbal Rimon
+
+#### MK-602.3 Team Moon Night Batch 6
+
+    MD.Mehedi Hassan-Team lead
+    Ismail Bhuiyan
+    Mahbuba Akhter
+    Asaduzzaman Ashik
+    Yeasin arafat
+    Md Tasdid Nayem
+
+#### MK-602.4 Team Knight Commandos
+
+    Kaium Uddin-Team lead (Scrum lead)
+    Md Fahim Muntasir Orin
+    Tasmim Rahman
+    Md Foysal
+    Hafizullah
+    Md Forhad Hossain Rahi
+
+#### MK-602.5 Team Matrix_Coders
+
+    Rakib Hasan-Team lead
+    Minhajur Rahman
+    Jharna Khatun
+    Johirul Islam
+    Ridoymia
+    Jintu Paul
+
+## Scrum link
+
+### Morning
+
+@everyone
+From the **Scrum code 602**, Please join your **Morning scrum** before 10:15am.
+
+Teams -
+#angurfoltok-ph (602.1)
+#moon-night-batch-6 (602.2)
+#knight-commandos (602.3)
+#matrix_coders (602.4)
+
+Team Leads -
+@OLY ULLAH  
+@Mehadi Hassan  
+@Kaium Uddin  
+@Rakib Hasan
+
+Morning Scrum MK602
+**Wednesday, May 3 · 10:15 – 10:45am**
+Google Meet joining info
+Video call link: https://meet.google.com/xqc-izii-nrh
+
+### Evening
+
+@everyone
+From the **Scrum code 602**, Please join your **Evening scrum** before 07:45pm.
+
+Teams -
+#angurfoltok-ph (602.1)
+#moon-night-batch-6 (602.2)
+#knight-commandos (602.3)
+#matrix_coders (602.4)
+
+Team Leads -
+@OLY ULLAH  
+@Mehadi Hassan  
+@Kaium Uddin  
+@Rakib Hasan
+
+Afternoon Scrum MK602
+**Tuesday, May 2 · 7:45 – 8:15pm**
+Google Meet joining info
+Video call link: https://meet.google.com/xqc-izii-nrh
+
+### scrum sobar age ask
+
+    603.3 mahbuba aktar
+    602.1 chat e details dibe

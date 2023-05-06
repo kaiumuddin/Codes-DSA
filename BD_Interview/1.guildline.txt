@@ -1,0 +1,9 @@
+DBMS -> Sql
+OOP
+OS
+Networking
+DSA
+Git
+Java
+C++
+Analytical

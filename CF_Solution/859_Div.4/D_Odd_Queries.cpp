@@ -194,9 +194,37 @@ bool isprime(int n) {
     return true;
 }
 
+vector<ll> a;
 
 void fn() {
+    ll n, q;
+    cin >> n >> q;
 
+    a.resize(n + 1, 0);
+
+    for (ll i = 1; i <= n; i++) {
+        cin >> a[i];
+    }
+    for (ll i = 2; i <= n; i++) {
+        a[i] = a[i - 1] + a[i];
+    }
+
+
+
+    while (q--) {
+        ll sum = a[n];
+        ll l, r, k;
+        cin >> l >> r >> k;
+
+        ll psum = a[r] - a[l - 1];
+
+        ll rsum = (r - l + 1) * k;
+
+        sum = sum - psum + rsum;
+
+        if (sum & 1) yes;
+        else no;
+    }
 }
 
 int main()

@@ -56,23 +56,6 @@ template < typename T, typename ... hello>void faltu(T arg, const hello &... res
 ll gcd(ll a, ll b) { return __gcd(a, b); }
 ll lcm(ll a, ll b) { return a * (b / gcd(a, b)); }
 
-int recur(int t)
-{
-    if (t < 0) return INT_MAX;
-    if (t == 0) return 0;
-
-    int left = recur(t - 2);
-    int right = recur(t - 3);
-
-    int minn = INT_MAX;
-
-    if (left != INT_MAX)
-        minn = min(minn, left) + 1;
-    if (right != INT_MAX)
-        minn = min(minn, right) + 1;
-
-    return minn;
-}
 void pvi(vector<int>& arr) // print 1d arr
 {
     for (auto e : arr) cout << e << " ";
@@ -95,108 +78,27 @@ void pvvi(vector<vector<int>>& all) // print 2d arr
         cout << endl;
     }
 }
-vector<string> split(string s, string delimiter) // split a string
-{
-    size_t pos_start = 0, pos_end, delim_len = delimiter.length();
-    string token;
-    vector<string> res;
-
-    while ((pos_end = s.find(delimiter, pos_start)) != string::npos) {
-        token = s.substr(pos_start, pos_end - pos_start);
-        pos_start = pos_end + delim_len;
-        res.push_back(token);
-    }
-
-    res.push_back(s.substr(pos_start));
-    return res;
-}
-
-const int mx = 1e7;
-// vector<ll> dp(mx, -1);
-ll n;
-
-bool calc(ll m) {
-    return 0;
-}
-
-void bs1() {
-    int k;
-    cin >> k;
-
-    vector<int> nums = { 1,6,9 };
-
-    int l = 0,
-        r = nums.size(),
-        m = 0,
-        ans = -1;
-
-    while (l < r) {
-        m = l + (r - l) / 2;
-
-        if (nums[m] == k) {
-            ans = m;
-            break;
-        }
-        else if (k > nums[m]) {
-            l = m + 1;
-        }
-        else {
-            r = m;
-        }
-    }
-    cout << l << " " << m << " " << r << endl;
-
-    cout << ans << endl;
-}
-void bs2() {
-    int k;
-    cin >> k;
-
-    vector<int> nums = { 1,6,9 };
-
-    int l = 0,
-        r = nums.size() - 1,
-        m = 0,
-        ans = -1;
-
-    while (l <= r) {
-        m = l + (r - l) / 2;
-
-        if (nums[m] == k) {
-            ans = m;
-            break;
-        }
-        else if (k > nums[m]) {
-            l = m + 1;
-        }
-        else {
-            r = m - 1;
-        }
-    }
-    cout << l << " " << m << " " << r << endl;
-
-    cout << ans << endl;
-}
-
-bool isprime(int n) {
-
-    if (n == 0 || n == 1) {
-        return false;
-    }
-
-    // loop to check if n is prime
-    for (int i = 2; i <= n / 2; ++i) {
-        if (n % i == 0) {
-            return false;
-        }
-    }
-
-    return true;
-}
-
 
 void fn() {
+    int l, r;
+    cin >> l >> r;
 
+    int maxLuck = 0, ans = l;
+
+    for (int i = l;i <= r; i++) {
+        string  num = to_string(i);
+        sort(all(num));
+        int curr = num[num.length() - 1] - num[0];
+
+        if (curr > maxLuck) {
+            maxLuck = curr;
+            ans = i;
+        }
+        if (maxLuck == 9) {
+            break;
+        }
+    }
+    cout << ans << endl;
 }
 
 int main()

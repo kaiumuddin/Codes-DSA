@@ -1,0 +1,22 @@
+LST = 0 or 1
+LQT = 0, 1, 2 ....
+
+a * :      5 2 4 1 ...
+s * :      5 4 1 4 ...
+
+// Arrival
+if(LST == 1)
+    yes : LQT++
+else
+    no: LST = 1
+    no : (D, t + s*)
+sobsomoy : (A, t + a*)
+
+// Departure
+if(LQT > 0)
+    yes : LQT--
+    yes : (D, t + s*)
+else
+    no : LST = 0
+
+    

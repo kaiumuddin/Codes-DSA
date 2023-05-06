@@ -196,6 +196,23 @@ bool isprime(int n) {
 
 
 void fn() {
+    ll n; cin >> n;
+
+    vector<ll> a(n, 0);
+
+    ll sum = 0, neg = 0, mn = 1e12;
+
+    for (ll i = 0; i < n; i++) {
+        cin >> a[i];
+        if (a[i] < 0) {
+            neg++;
+            a[i] = -a[i];
+        }
+        sum += a[i];
+        mn = min(mn, a[i]);
+    }
+    if (neg & 1) sum -= 2 * mn;
+    cout << sum << endl;
 
 }
 

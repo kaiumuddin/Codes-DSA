@@ -1,0 +1,81 @@
+https://tahanima.github.io/2020/06/21/recruitment-stories-experience-of-proteeti-at-bs23/
+
+Phase 1. online test : MCQ Topic
+    -those who have marks up to 50% they are selected for the next step.
+    DBMS
+    OOP
+    OS
+    Networking
+    DSA
+    Git
+    Java
+    C++
+    Analytical
+    Math
+
+    DS complexity
+    output tracing of C programs
+    Online coding test is most about string related problems.
+    Implementation problem,geedy problem,Dynamic Programming,Graph Related Problem
+    dijkstra
+    SQL and sub query
+    
+Phase 2. Coding test / Assesment test 
+    Game, puzzle solving, problem solving and designing a project
+
+Phase 3. - Skype Interview .
+    
+Phase 4.  HR Interview. (Non Technical)
+    Leetcode 
+    Codeforces A, B;
+    Topological sorting written question
+    Find a loop in linked list;
+    Does merges sort algorithm have O(n log n) worst case time complexity?
+    Data structure, Algorithm, Database and oop
+    Explain the terms ‘Record’, ‘Field’ and ‘Table’ in terms of database.
+    Which one is runtime polymorphism?
+    Output tracing of post and pre increment operator
+    Explain briefly what do you know about Microservices and SDLC.
+    which algorithm will run faster given its time complexity: options given.
+    Questions regarding recursons was present
+    
+
+    you are given a list of minutes to perform some tasks such as [2, 6, 3, 4, 1, 7, 2]. what least time it will take if two workers work in parallel and perform those tasks in sequential order?
+
+    Nodes , Palindrome , Even Odd Fibonacci numbers
+    Time complexity,Database, Sub query, OOP. Algorithm
+    Stages of software testing lifecycle
+
+    What do you know about one-to-many relationship in database? give an example
+    How will you find out a doubly linked list is circular or not?
+    Write a pseudocode of recursion to print all the digits of a number from right to left 
+    What do you know about github since it is in you CV?
+
+    When we write the url of facebook and hit enter, how do the browser understands that this url points to facebook, not youtube? 
+
+    What do you know about polymorphism?
+    They asked from OOP four basic principles...
+    They checked what i know about frontend backend github technologies
+    They checked my knowledge on problem solving, data structures & algorithms, dbms, bla blah!
+    A procedure that cell itself is called
+
+    what is 20 mod -3
+    version control system
+    What is singleton design pattern?
+    Binary Tree, Binary Search Tree, Joining query, Normalization concept, OS, OSI model, question related to CV
+    Explain sync and async request.
+    When to use Trie data structure.
+    Is there any problem with multiple inheritance.
+    Describe stored-procedure in the context of DB
+    Difference between truncate and delete
+    When do we use BFS?
+    Binary to decimal, gcd of two numbers, fibonacci using recursion.
+    OOP, data structure, SQL
+
+    - What do you understand about OOP?
+    - What is the difference between abstract class and interface?
+    - What are the features that C# has but Java don't?
+    - (Some other basic questions)
+    - What is your weakness?
+    - What do you do to overcome them?
+    - Where do you want to see yourself in 5 years?

@@ -1,0 +1,26 @@
+git clone --bare private-url
+new repo on personal github
+git push --mirror new-url
+git remote -v
+git remote set-url origin new-url
+git remote -v
+
+
+
+
+
+mobile-wizard
+live : https://mobile-wizard-818d2.web.app/
+client : https://github.com/kaiumuddin/mobile-wizard-client.git
+server : https://github.com/kaiumuddin/mobile-wizard-server.git
+
+vacarion
+live : https://vacarion.web.app/
+client : https://github.com/kaiumuddin/vacarion-client.git
+server : https://github.com/kaiumuddin/vacarion-server.git
+
+skill island
+live : https://skill-island.web.app/
+client : https://github.com/kaiumuddin/skill-island-client.git
+server : https://github.com/kaiumuddin/skill-island-server.git
+

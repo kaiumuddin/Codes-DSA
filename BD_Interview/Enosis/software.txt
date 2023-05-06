@@ -1,0 +1,1331 @@
+Interview
+There would be multiple rounds. I have attended the first round only. 1st Round: An online coding test with hackerrank . There was 2problems of medium level. 60miniutes time to complete. 2nd round will be in C#
+
+Interview Questions
+An online coding test with two problems in 60mins
+
+Interview
+There was 2 steps coding test. In each test, there were 2 problems to solve. The first one was more like an implementation test and the second one was more analytical.
+
+Interview Questions
+Build a link-listed tree structure with the left and right children.
+
+Interview
+First Step: Coding Test; given 2 problems and 1 hour time based on data structures, ad-hoc. Second Step: This step also problems solving Third Step: HR interview asked some basic question about myself
+
+Interview Questions
+Basic OOP, how I think to solve the problem during a coding interview
+
+Interview
+There are 3 phases: (1) A 75 minute online coding test, over hackerrank, there were 2 data structures and algorithms problems, similar to competitive programming structure. (2) A technical live session over google meet. Technical problem solving, similar to round 1 but a little harder in difficulty. (3) An HR interview
+
+Interview Questions
+Asked me about algorithm problems
+
+Interview
+I had some problem-solving and had a viva with them.it is a fantastic experience. questions has proper standards. company is very good and their culture seems amazing to me. overall awesome
+
+Interview Questions
+they asked about problem solving
+
+Interview
+First step will be in hacker rank. There will be 3 questions in first step. And candidate have to submit those in 75 mins. Basic things like function call , string , array , loop , nested loop anyone should have knowledge before applying.
+
+Interview Questions
+First step - 3 questions like problem solving.
+
+Interview
+I was invited to a google meet. Selected IDE was visual studio which i had no experience on. I tried it for a few days before the interview. Shared my screen and had to code on their pc remotely. Time limit was 45 minutes.
+
+Interview Questions
+Center aligning a right angled triangle of numbers. the limit will be given for the base level. and from that, a pyramid had to made.
+
+
+Interview
+First an initial coding test was arranged at hacker rank. There were 3 questions. If one able to solve all of those may be eligible for the technical interview. And after that HR interview.
+
+Interview Questions
+Famous questions for interview available on internet.
+
+
+Interview
+It was my first interview and I was nervous, that's why couldn't do very well in the interview. They gave three problems from hackerrank. One array problem, one string manipulation related problem and another one was from graph topic.
+
+Interview Questions
+Convert a string into a pallindrome making least possible change.
+
+Interview
+It was a good interview. The first phase was done by the hackerrank problem solving and the second phase which is the technical session also a problem-solving session for me.
+
+Interview Questions
+There are 3 problems are given in the hackerrank. All these 3 are programming problem and looks easy to me.
+
+
+Interview
+I applied online from their website. After a few days they called me for the interview. I had to code in their platform. The meeting lasted for 15 mins approx.
+
+Interview Questions
+Basic problem which are availalble in leetcode.
+
+
+Application
+I applied online. I interviewed at Enosis Solutions (Bangladesh) (Dhaka) in Oct 2022
+
+Interview
+Online Coding Test, Technical Interview (online), HR Interview. Online coding test was conducted in hackerrank. I had to solve thrree problems. technical Interview is also conducted in hackerank. I had to solve a problem.
+
+
+Interview
+The interviewer was very friendly. They just throw LeetCode type questions. Mostly easy & medium but not hard questions. For their first round they asked me easy questions. I failed to solve questions in their technical round. Which is considered their second round.
+
+Interview Questions
+I've encountered tree based questions for their technical round.
+
+
+Interview
+1st round - 15 minute coding interview, easiest questions, like find average of an array without max,min. This coding was done in shared doc, no IDE/text editor 2nd Round - 1h coding interview, 2-3 question, around 20min each, little bit harder problems, recursion,string manipulation, maybe some tree, stack etc. This coding was done in interviewee's computer via team teamviewer like remote control software, in C#, Visual Studio The interviewee was helpful throughout the process and guided clearly. If goes well, then HR interview, basically they ask about availability for the job, then recruit.
+
+Interview Questions
+Coding question as I described.
+
+
+Interview
+2 rounds of interview where they give a problem to solve. In 1st round they give very basic problem. In 2nd round they give average difficulty problem. If you pass the 1st round , they call you for 2nd round.
+
+Interview Questions
+Round 1.
+Make a one sorted array from two different sorted arrays without sort function.
+Given an array of numbers. Calculate the absolute difference between sum of odd elements and even elements
+Round 2:
+Encrypt a string with given rules.
+
+
+Interview
+1st step was simple array digit summation problem 2nd step had 2 problems. little bit hard. I solved the first problem but was stuck on 2nd one. The second interview is in c#
+
+Interview Questions
+Array summation. String alignment. String decypher
+
+
+Interview
+Two round technical interview takes place. First round interview is taken with one basic/easy leetcode problem which lasts about 20 minutes. Second round interview is taken with two/three moderate/medium leetcode problem which lasts about 90 minutes. Both interview rounds are undertaken by same person.
+
+Interview Questions
+Merging two sorted list into one in any preferred language. (first round question)
+
+
+Interview
+Firstly that was a very good interaction for me that make a good interview. This session will be a short programming session and the time was 20 minutes. You will be able to use any of the following programming languages: C, C++, C#, Java, JavaScript, and Python.
+
+Interview Questions
+arr = [4,5,2,6,3] the given output will be [3, 4, 5, 2, 6]
+
+
+Interview
+It was a two step interview process. In each step, they will give you 1/2 problems. You have to solve them. They may ask several questions about the problem given. Both interviews are same, only the difficulty of the problem varies.
+
+Interview Questions
+1. Counting the number of digits of a number. 2. Given an string. Divide it into several lines and align the lines in the middle of the screen.
+
+Interview
+Repeated same questions for every one. So most of the candidate gets the question and solved before interview. If you have some little bug in 1st problem the don’t give another problem to solve.
+
+Interview Questions
+Check a num is palindrome or not
+
+
+Interview
+It's a 3-step process. In the first step, they just asked me some questions from my cv and gave me a basic problem. In the 2nd step, there was 2 medium range problem given. I managed to solve one problem in the 2nd step . The interview behavior was good and so friendly.
+
+Interview Questions
+Rotation of an array using iteration
+
+Interview
+I faced interview firstly they gave two basic question, like array modification , if you pass this step, they will call for second step . This step is a little bit hard.
+
+Interview Questions
+they gave array and a number has been passed then asked to construct a number from the array and minus the number from the constructed number and pass that number . Now now interview process has been changed . they are now arranging contest in hackerank
+
+
+Interview
+It was an initiative-filled and friendly interview. There were some basic questions about SDLC. The question was asked according to the answers . There were some scenario given and on that scenario basis which testing should be used and some basic question about dattabase relationships.
+
+Interview Questions
+Why I want to join this company Why should we hire you what are your plan in future
+
+
+Interview
+Interview was held online. The interview was done in 2 steps. First was for 15 minutes. Second was for one hour. First they took the cv. Then they review it and call for interview
+
+Interview Questions
+Write the fibonacci sequence using only one loop?
+
+
+Interview
+3 phase of interview.
+1st phase : simple coding problems(1 / 2)
+2nd phase : medium level coding problems(2)
+3rd phase : HR meeting
+1st phase is easy. If you do well in 2nd phase, you will be invited for HR meeting.
+
+Interview Questions
+simple logic based, tree, stack&queue.
+they have custom problem sets with their own interface in visual studio IDE(for 2nd phase only c# is allowed).
+Competitive programming is a plus point.
+
+
+Interview
+I applied through their career portal. The whole process took more than 30 days. There were 2 main phase after selecting the CV and both face were One to One Problem solution phase.
+1st phase was a 20mins problem solving session where I had to solve 2 easy problems with any preferred language.
+
+2nd phase was a 130mins problem solving session where I had to solve 2 easy(slightly difficult then first phase) problems with C#.
+
+Interview Questions
+String Manipulation and Tree related problem
+
+
+Interview
+First, they call for coding interview of 15 min. They will give you 1 question to solve. You can only select c/c++ , java, c# as your programming language. I tried to use python but they forbid it. Their interface is similar to leetcode.
+
+Interview Questions
+Find out whether the string is an anagram or not.
+
+
+Interview
+After shortlisting, they take an Initial Interview for 15 minutes (Basic Problem Solving). Then, the Selected candidates will have to sit for another 1.3 hrs Technical Interview (Coding) round. Last is an HR interview for final job selection.
+
+Interview Questions
+Check if Number 12321 is Palindrome or not.
+
+
+Interview
+There are two phases I have faced.
+phase 1: 20 min coding session with an employee of the company. Language option were c,c++,java,JS, C#.
+I had to solve 1 problem within 6 mins. The problem was easy category problem.
+
+Phase 2: 90 min coding session with an employe of the company. They explicitly told me to use c# for the coding session.
+This problem is relatively hard from phase 1.
+
+Interview Questions
+write a function two check the given input is palindrome or not. Input is a number and you can't convert number to string.
+
+
+Interview
+Initially 1st phase of Programming test in 10 minutes then 2nd phase of programming test in 1.5 hours. After overcome these two steps finally take a viva voce. If you complete these phase, HR take a consult meeting with employee.
+
+Interview Questions
+Programming related problem solving in 10 minutes
+
+
+Interview
+After accepting CV they call First for a 15 minutes of coding test then next call was for a 1.5 hour coding test. After that an hr interview after that offer .
+
+Interview Questions
+String and graph related problems of medium difficulty
+
+
+Interview
+it was about 15-20 minute coding interview, i have to solve a problem. it is easy and logical.then the interviewer asked to tell him the logic. then i tell him the proper logic
+
+Interview Questions
+it was, when i was graduated?
+
+
+Interview
+Phase 1
+Part 1: 4 analytical and mathematical questions covering mainly geometry and algebra
+Part 2: 6 coding questions covering string manipulation, loop, and basic OOP concepts
+Part 3: 5 software testing questions
+
+
+Interview
+There are three-phase of the interview. In the first phase, you have to solve two simple coding questions in 30 min without running them. In the second phase, you will have 1.30 hours for solving two questions. The description of the questions will be given by the interviewer.
+
+Interview Questions
+First Phase: Q1. Print repeating elements in an array.
+Q2. Ip address validation problem.
+Second Phase: Q1. You will be given a long string. You have to break the string with maximum characters per line.
+Q2. Build a tree from list of nodes. Question will be explained by the interviewer.
+
+Interview
+The interview was held online. All the instructions were given earlier through mail. They confirmed a schedule for the interview over phone call. There was only one interviewer in the panel. I was asked to share my laptop screen. I was given two problems to solve. They provided their sandbox.
+
+Interview Questions
+String manipulation, OOP related questions
+
+Interview
+1st stage of recruitment was online coding interview. I was interviewed by a senior associate of enosis and was asked to solve 2 problems. The main purpose of this interview was to assess logical thinking.
+
+Interview Questions
+I was asked 2 solve 2 programming problems....The problems were fairly easy and were mainly done to assess logical thinking.
+
+
+Interview
+At 1st submit cv and then take a advance coding test then amplitude test then viva about data structure and algorithm then discuss about project and finally hr section and final discussion about salary and others
+
+Interview Questions
+about problem solving and approach
+
+
+Interview
+In first round they give you solve one or two problem. Gave 10 minutes time to solve each problem. if you pass they call for second round interview. I was nervous. I understand the problem wrong and solve different problem.
+
+Interview Questions
+Checking a string is Pangram or not
+
+
+Interview
+1. 15 minutes 1 or 2 problems to solve live, relatively easy problems
+2. Next one is 90 minutes live coding session, relatively harder than the first one.
+3. ... I don't know, can't solve all in step-2
+rejected but the interviewer is really a nice person.
+
+Interview Questions
+1. first non repeating character. + print 1,2,3 ... 10, 9, 8 ...1 with a single for loop.
+2. decode an encoded string, it was a stack problem
+
+
+Application
+I applied online. I interviewed at Enosis Solutions (Bangladesh) (Dhaka) in May 2022
+
+Interview
+In 2nd phase of interview they only allow C# programming language. Applicants like me who were unaware about this language preference, horrible failed the interview. at first phase I was given a simple problem which was finding duplicates in the array.
+
+
+Interview
+Firstly they emailed mail for first round and set google meet link for specific time and set the time zone and date. On that specific time, i enter the google meet and joined the google meet and interviewer was very friendly
+
+Interview Questions
+they just gave an array then told to build a number and extract the number then return that
+
+Interview
+It was good. I was asked to solve two array related problem. The first problem was to find repeated element in an array. The second problem was to do a write circular shift of the array without using extra space.
+
+Interview Questions
+Database
+My projects
+Array related problem
+
+Interview
+It was an online assessment with one of their lead engineer present. After introducing yourself, you'll need to tell which coding language you prefer and you'll be given a certain amount of time (10-20) minutes to solve few coding problems on your preferred language. You'll be asked about some basic questions too.
+
+Interview Questions
+Write a code to detect whether a given IP address is valid or not
+
+
+Interview
+First round, I was given a coding problem which I had to solve without having the option to run the code. 2nd round - I was given 2 coding problems to solve in C# in a remote PC
+
+Interview Questions
+Divide a long sentence into multiple sentences with length at most N so that no word is broken in multiple lines. I had to use C# but I wasn't allowed to use split.
+
+
+Interview
+I applied through a friend of mine and got a call after two days. The recruiter was a technical person and seemed to hold a senior position in the company. However, he asked me couple of easy questions as it was the first round. I completed the first one quite easily and on the second one, I rushed to deliver the solution quickly and didn't grasp the objective of the question well. The interviewer seemed unimpressed and cut the interview short.
+
+Interview Questions
+1. Find the frequency of elements in array. Example: [1,2,2,3,4,3,2] in this array what is the frequency of the elements ?
+
+
+Interview
+I applied through a friend who works there, I attended an online interview during covid-19. I applied in April 2022.
+HR called after a few days and set a date for the interview. First HR phone interview, then online programming assessment 15 minutes. Second Round 1.5 Hours Coding with C# language then final Viva.
+
+Interview Questions
+Left/Right shift a array in O(n) time.
+
+
+Interview
+At first, they took a 15-minute online screening test where I was asked to solve two problems using C++, C#, or Java. After being selected in this round they took a 1.5-hour coding test where I was asked to solve two problems using C# in Visual Studio IDE.
+
+Interview Questions
+Given a sentence as a string. Reverse the words keep the sequence and output the reversed word string. (15-minute screening test)
+Input:
+1
+1 1
+1 2 1
+1 3 3 1
+1 4 6 4 1
+1 5 10 10 5 1
+1 6 15 20 15 6 1
+
+Output this pattern as center-aligned. (1.5-hours coding test)
+Given a postfix notation. Build the expression tree.
+
+
+Interview
+First there is a 15 min coding round, they let you code on a custom website. Then after passing that round there's a 1.30 hours coding challenge round. I failed in this round.
+
+Interview Questions
+Find the average of a given array without the max and mix numbers.
+
+
+Interview
+It was a 15 minute basic coding session. Interviewer gave me two question. Firstly he explain those question and then asked me to solve this questions. Then i share my solution approach to the interviewer.
+
+Interview Questions
+You are given an array. You have to print the array(without using extra space) after one circular shift.
+
+
+Interview
+2/3 months after I applied, HR emailed me to set a schedule for the interview. then i am schedule an interview. and that was mainly an online interview via google meet.
+
+Interview Questions
+given two arrays, try to find their letter difference and print them.
+
+
+Interview
+A short interview of 15 minutes duration will be taken first. Some basic programming questions will be given to evaluate the candidate. If the candidate solves the given problem in the given time, He/she will be called for a 90 minutes long coding interview after few days.
+
+Interview Questions
+Given an integer array, print all repeating elements in the array.
+
+Reverse every word in a string
+
+Given a very big string and maximum characters allowed in a line as input. You have to divide the string (without breaking the word) in such a way that each of the lines does not contain characters more than the value of maximum character allowed in a line.
+
+Given an array of nodes, where each of the nodes has three members- id, name, parentId . You have to generate the tree using two given methods. Questions will be explained briefly by the interviewer.
+
+
+Interview
+I applied online. They invited me at a 15 minutes online programming session. I have to solve 2 problems. After one week, they invited me 1.5 hour programming session. They gave me two problem (Tree related). I managed to solve one.
+
+Interview Questions
+Given a list of entities consist of child, parent relationship, build the tree.
+
+
+Interview
+First round coding challenge: ask you to complete two coding challenges within 20min. If you pass the initial coding challenge then they will call for the second round If you pass the initial coding challenge then they will call for the second round
+
+Interview Questions
+print a pattern like 10 to 1 and 1 to 10
+
+
+Interview
+At first I applied online. Then I have participate 2 coding phase online. In the first phase a easy problem was given and time duration was 15 minutes. In the second phase 2 medium hard problem was given and time duration was 1:30 hours. Then after all the process they gave me job offer.
+
+Continue Reading
+Interview Questions
+1. Left alignment string was given and have to make it center alignment.
+2. A hierarchical XML tag list was given and from this we have to make a tree.
+
+
+Interview
+1st round is 15 minutes of interview on basic array string problem in c,c++ or c# language. if you selected you will be called for second round which is 1.5 hour long. it will be taken in C# language.And it will be comparatively hard.
+
+Interview Questions
+Longest Common subsequence of string
+
+
+Interview
+First submit CV online, got call after 2 weeks. It was conducted in ZOOM meeting. 15 min video call. First submit CV online, got call after 2 weeks. It was conducted in ZOOM meeting. 15 min video call. Why i need to write 30 word. BTW interviewer was rude
+
+Interview Questions
+Give a sentence as string, You have to reverse every word and print it
+
+
+Interview
+It was my interview. They gave me 15 minutes time to solve the problem. the problem was self-explanatory. After finishing the code, the interviewer asked to explain the code. Language available : C, C++, C#, Python
+
+Interview Questions
+The question was related to the array. An array was given and the output will be an array. the task was to manipulate the array by right shifting the elements
+
+
+Interview
+I face only two rounds.
+Round 1: Interactive coding session (easy problem)
+Round2: Interactive coding session (intermediate problem)
+
+Interviewer was very gentle and helpful. Though I solved all the problems they asked, I did not get offer.
+
+Interview Questions
+Round1: simple array related problem like "find highest and second highest number from the array using only one loop"
+
+Round2: Left align strings given. you need to make it center align or right align. If you complete this task then they modify this same problem a little bit to make it harder. Honestly those are not that hard. anyone who have proper knowledge of data-structure, algorithms and ability to solve codeforces (A, B), can easily solve that
+
+
+Interview
+I sent an application and after a few months they asked me to attend a 15 minutes online programming session with one of their senior associates. After that went well, they asked me to attend another 90 minutes coding session.
+
+Interview Questions
+In the first programming session, I was asked to do some calculation given an array of integers.
+
+
+Interview
+The interview took place in three phases.
+1.Written test : Analytical questions,Basic coding problems,debugging and UI related questions
+
+2.Coding Test : The interviewer was very helpful.Three problems were given and had to code in c#. Also asked to modify the code and different solution for the problems.
+
+3.HR Call : Asked about CGPA,Family Background,Higher Study plan etc.
+
+Interview Questions
+Coding phase question 1 : Given a left aligned string asked to make it center aligned.
+Coding phase Question 2 : Find most frequent and 2nd most frequent small letter from a given string
+Coding Phase Question 3: From a given Postfix notation construct an expression tree
+
+
+Interview
+We take the pleasure of requesting you to join in an online session on Wednesday November 17, 2021 at 12:30 pm for a discussion with our senior associates.
+
+This session will be a 15 minutes programming session. You will be able to use any of these following programming languages: C, C++, C#, Java.
+
+Interview Questions
+Find string anagram or not?
+
+
+Interview
+total 2 stages. initial stages have to solve mini problems. after passing that the 2nd stage contains some big problems and has to solve that within a limited time for both stages.
+
+Interview Questions
+String alignment and Array related Problems
+
+
+Interview
+Initially phone interview where they will confirm the time for first stage. After completing the first coding test within an interval of 1 week one have to sit for the second test. If passed then hr interview.
+
+Interview Questions
+In first stage I got an array related problem and the second one was string manipulation.
+
+
+Interview
+At first there is a written test. There are various questions there. Like determining output of a code. Writing sql query etc.
+Then there is an HR interview.
+Lastly there is a coding test.
+
+Interview Questions
+How to left align some strings
+
+
+Interview
+After I drop out my CV via campus recruitment, they called me for a written test. After it, they called and asked to give a coding test which was mainly 2nd phase.
+
+Interview Questions
+String manipulation problem and tree based question
+
+
+Interview
+3 steps
+1. Written test : analytical question, Had to write code for 6 problems, debugging problems ect.
+
+2. Coding test : Had to write code for two problems in C#(fixed). Asked for optimize the written solution and also two/one different solutions for both of them.
+
+3. HR Phone Call : Asked about CGPA, educational background etc.
+
+Interview Questions
+Given a list of tree node. Generate the full tree using parent and child ID.
+
+
+Interview
+Two steps :
+1. Written-test
+2. Coding test + (etc)
+
+Written test ( basic math problems + basic algorithms implementation + some software testing problems )
+
+Coding test ( Two problems, First one is relatively easy from the second one )
+
+Interview Questions
+Q: Write an algorithm to reverse a string.
+
+
+Interview
+First part was written test and second phase was coding. The written test was for about an hour and coding phase was for about 1.5 hour.
+
+The written test consisted of 3 parts.
+1. Analytical
+2.Coding
+3.Test
+
+The total score of the test was about 50 marks. Part 1 consisted 10 marks, part 3 about 15 marks and the rest consisted of part 2.
+
+Interview Questions
+Coding phase question 1: Given a string the interview asked to make each new line of the string center aligned. Each new line was identified by special character '\r\n'
+
+Coding phase question 2: Given a string the interview asked to find the most frequent character and the second most frequent character
+
+Coding phase question 1:The interview gave a list of nodes from a collection of trees where each node has an id and a name (string) and another id which determines its parent(-1 in case the node is a root). The trees (forest) had to be constructed from the given information.
+
+
+Interview
+There were 2 steps. First one is written and second one is coding test. Everyone passes the first round easily. It consists of some basic programming and database questions. The second round takes place for one hour and 2 problems are given. One is alignment and another one is about graph theory.
+
+Interview Questions
+Right Alignment Problem and Graph Theory
+
+
+Interview
+2 phases :
+1. Written test : basic math, geometry and analytical problems, ui design improvement, error finding from block of codes, completing a function block, test case designing.
+2. Coding test
+
+Interview Questions
+Questions from written exam paper
+
+
+
+Interview
+The process is not that good. At first they give you a question paper which has 10-15 programming problems. You have to write their solution in paper. Then if you are selected for the next step, they make you sit infront of a computer to solve two problems. There is always one interviewer remains by you side at the time of solving. This is totally disgusting, as he doesn't do anything but look at your code creepily.
+
+Interview Questions
+To write an string modifier function in C.
+
+
+
+Interview
+Applied through career page. After some days I got a phone call to attend the written test. The written test was on basic programming, mathematical, IQ, and software testing based. After some days they confirmed to me that I'm selected in the written test and fixed a date for the coding test. In the coding test, there were two problems but, I solved only one.
+
+Interview Questions
+1. String reverse
+2. Age-related to math etc.
+
+
+Interview
+The process contatins 3 steps:
+First they arrange Written short questions(which contains some basic analytical questions, easy coding problems, some soft testing questions)
+Second- Coding test(One to One with Recruiter)
+Third- Interview over Phone with HR
+
+Interview Questions
+Analytical:
+1.The average speed of a train without stoppages is 48 kmph and average speed with stoppages is 40 kmph. How many minutes in an hour the train stops on an average?
+( https://www.job.school/posts/the-average-speed-of-a-train-without-stoppages-is-48-kmph-and-average-speed-with-stoppages-is-40-kmph-how-many-minutes-in-an-hour-the-train-stops-on-an-average?jobenid=TkRBNU9UUm5iM1ow)
+2. Conventional simple mother and daughter's age math was given(couldn't remember)
+
+3.Two concentric circles of radii a and b(a>b) are given. Find the length of the chord of the larger circle which touches the smaller circle.
+(https://doubtnut.com/question-answer/two-concentric-circles-of-radii-a-and-ba-gt-b-are-given-find-the-length-of-the-chord-of-the-larger-c-61733620)
+4. There are 24 students in a seventh grade class. They will plant birches and roses at their school. While each girl planted 3 roses, every three boys planted 1 birch. At end of the day they planted 24 plants. How many birches and roses were planted?
+(https://www.quora.com/There-are-24-students-in-a-seventh-grade-class-They-will-plant-birches-and-roses-at-their-school-While-each-girl-planted-3-roses-every-three-boys-planted-1-birch-At-end-of-the-day-they-planted-24-plants-How-many)
+
+Coding:
+1. print a sequence using one loop: 10 9 8 7 6 5 4 3 2 1 3 4 5 6 7 8 9 10
+2. Write a function to reverse each word of a given string.
+3. Write a function that will print all the multiples of 3 between 1-200 ( in reverse order )
+4. Read integers from one file and then find the avg
+5. A string was given. you need to print the string removing the fourth index.
+6. Write a function that will receive a string as an input and will return the string in reverse order.
+7. Find the elements that occurs only once in the array.
+8. find error from code : a) stack class code was given b) an avg from an array (return type error and some more)
+
+Soft Testing & UI related ques:
+1. a simple calculator UI was given. you need to write 5 test cases to test the calculator.(There was no code, only two placeholder where we input numbers ).
+
+
+Interview
+At first they took a written test. It was the 1st phase. Which was based on analytical skill, basic programming and some software testing ability. 2nd phase is Programming Session/Testing Session.3rd phase is HR interview.
+
+Interview Questions
+Write a program the prints the multiple of 3 from 1 to 200 in reverse order.
+
+
+Interview
+The whole process includes two stage. First is the written test and the second one is the coding test. In the written test, there is three section of questions:
+1. Analytical ability
+2. Basic programming
+3. Software testing
+
+After the written test, they will require a face to face coding test where the ability of coding will be judged. The coding language is C# which they use for the test. Their environment is amiable and thats all about interview I have faced.
+
+Interview Questions
+Q: What if an array is empty but stack implementation wants to pop from it?
+
+
+
+Interview
+The interview contains three steps, Written-test, Coding Test, and an HR interview. All three steps are sequential, once you pass the written part, you are called for the coding tests and then called by HR for an interview.
+
+Interview Questions
+The written test contains basic math and programming questions, along with a few questions where you have to identify and error and test a UI. The coding test contains problems involving text alignment and binary trees.
+
+
+Interview
+Written round: it was for 1 hour. Questions can ve found online and they give the same question everytime. Don't know what exactly they are looking for, because they didn't call although i got all the questions right.
+
+Interview Questions
+Link to the onlune resource: https://aprogrammersexperience.blogspot.com/2018/11/interview-questions-at-enosispart-1.html?m=1
+
+
+Interview
+Written test and Coding test. At first they take a written test consisting of 3 parts: Analytical, Basic Programming and Testing. Then they call for the coding test. The time for the written test is 1 hour and coding test is 50 minutes.
+
+Interview Questions
+Center alignment from a left aligned Triangle pattern.
+
+
+Interview
+Written test took place in Day1. Two more steps to the whole process, one being the technical interview and other an HR viva. The process is explained by a host.
+
+Interview Questions
+monkey climbs 3m and slides 2m daily. How many days it would take to reach 30m
+3 Answers
+if total cost of an apartment is fixed, cost per person if thereis 36 people is 12$ more than if the price was split between 40 people. what is the cost/ rent of apartment?
+Answer Question
+Janes age 3 times is equal to Beths age 8 times and the difference of their ages is 15. Find ages.
+1 Answer
+6 More programming problems and 5 UI based test cases.
+
+
+Interview
+Written test followed by a Coding test. The written test is quite easy. Coding test can be a bit challenging, specially the 2nd problem. Coding test is interactive session. The interviewer helps when required. The process is clean and well sorted though the questions are repetitive.
+
+Interview Questions
+Technical questions and some math problems in the written test. String manipulation and tree generation in coding test.
+
+
+
+Interview
+It was a written test. Questions were divided into three parts. First analytical ability. It was based on class 9 10 maths. Then there were some questions about programming. Any language one can use. More of them were from array. Some of them from object oriented programming. They gave some code and we had to find errors in them. And the last part was related to database and Q/A related. Features of phone,error of an adder.
+
+Interview Questions
+If a monkey can climb 3 mtrs up and fall 2 mts down per day.how many days it would take to climb a height of 29 mtrs.
+
+Interview
+They take a written exam at first. On that result, they select for coding session. Usually, they give 2 problems each with 25 minutes. In the coding session, 2 recruiters will be in the same room and will watch you coding.
+
+Interview Questions
+Basic analytical and coding test
+
+
+
+Interview
+The whole process is divided into 3 parts.
+
+1. Written test
+2. Coding test
+3. HR interview
+
+Tests are pretty easy. They don't change their questions. It's being repeated over years. It's more like you getting questions before attempting the tests.
+
+Interview Questions
+1. Find multiples of 3 between 200-0. And more.
+
+
+Interview
+Written was easy simple programming and the analytical question then Coding was on the repetitive question on string and map. Try to get the questions. Try to get the questions
+
+Interview Questions
+Write a function to reverse a string
+
+
+Interview
+A written test with easy math, programming problem, testing and debugging question.
+A onsite coding test. One to one coding. A problem would be given and a laptop to code on. The interviewer can see and control the screen. They can interrupt and ask question. The coding test was conducted in C#. They give you hint and library function info if you are stuck.
+
+Interview Questions
+In the coding test I was asked to implement Wrap Text algorithm. Given a long string and a line width, modify the string to put new line so that a line has at most line width amount of character and no line break is given in the middle of a word.
+I was not allowed to use split function.
+
+
+Interview
+I applied via an employee. I was called by the hr the very next day to appear in a mcq test a week later. The mcq test was quite easy, consisted of previous questions found in glassdoor, including basic iq test, basic problem solving, testing, finding bug etc, should be a piece of cake for any cs grad. After a week I was asked to sit in a technical interview. It was in C# and I was asked to add a new line to an input string when it exceeded a given limit of characters per line.
+
+Interview Questions
+1. add a new line to an input string when it exceeded a given limit of characters per line.
+
+
+Interview
+There was 3 steps overall:
+1. Written Test
+2. Coding Test
+3. HR interview
+The interview process is quite lengthy. From dropping the CV to getting the job offer, it took me almost 1.5 months.
+
+Interview Questions
+
+Written test consists of 15 basic questions which are already available in others posts. Except 2-3 questions, most of them are extremely basic. Few mathematical analytical questions, few basic programming question, and few questions for testing.
+
+The coding test consist of 2 problems (one string based and another one is a tree based problem). The string based problem asked for center aligning a multi lined string. And in the second problem, they asked for adding a node to a multi rooted tree.
+
+The coding tests duration is 50 minutes. There were 2 interviewers who constantly view the code in a projector and asks question about various matters regarding the code.
+
+If you can successfully solve both problems, then you will surely get a call from HR in the next week.
+
+HR will ask for various personal stuffs, future plan(don't mention about higher study plans), salary expectation and other few questions regarding extra curricular activities.
+
+
+Interview
+They take a written exam at first. On that result, they select for coding session. Usually they give 2 problems each with 25 minutes. In coding session, 2 recruiter will be in same room and will watch you coding.
+
+Interview Questions
+Basic string problem in coding session
+
+
+Interview
+All questions are almost the same as before. Questions from basic algebra. Basic programming questions like 1) Write a function that receives a string and returns the reverse of it. 2) Revere each word of a sentence. 3) print multiples of 3 from 200 to 1. Basic testing questions etc.
+
+Interview Questions
+print 1 2 3 4 5 6 7 8 9 10 9 8 7 6 5 4 3 2 1 by using only one loop
+
+
+Interview
+1.written exam: some problem easy for cse graduate
+2.coding test : 2 problem to solve . One is allign ment text center. Another is maximum number of small characters in a string
+
+3.interview
+
+Interview Questions
+1. allignment a test center.
+
+
+
+Interview
+I had to take part in the written test. The test duration was one hour. The questions were programming problems, some basic maths, and testing questions. The problems were varied from easy to intermediate level.
+
+Interview Questions
+To solve problems using any programming language.
+
+
+Interview
+It was a very structured process to select proficient candidates. I felt that the environment there was friendly and the employees involved in the interview were very much helpful. I really appreciate it.
+
+Interview Questions
+What is the different between depth first search and breadth first search?
+
+
+Interview
+I gave a written test on 8th December 2020.
+
+Post: Software Engineer
+
+Time duration: 1 hour. (Very much careful about this time limit)
+
+3 types of questions were in there.
+- Basic Maths
+- Coding questions (you have to write code)
+- Software testing
+
+All questions were coming from previous questions & interviews. You will find it in GlassDoor, Google. They will make a simple logical change in 2..3 questions maximum.
+Otherwise, everything is the same.
+
+Note: As I have already said you will get a very short time, so you have to be very careful about time. You have to practice codes.
+
+Try to focus on coding first if your are applying for Software Engineer.
+
+Interview Questions
+String Manipulation, Array related problem, Software testing is also the basic question.
+
+
+Interview
+The hiring process consists of 3 steps. Written exam, coding test, and finally a face to face interview. The written test consists of 3 sections. Analytical section (4 questions), coding section (7 questions), and quality testing section.
+
+Interview Questions
+Reverse a given string word by word.
+
+
+Interview
+In initial stage after shortlisted they took an one hour physical written exam. The next phase is coding interview where coding in c# is preferable. After that they will take an interview for final selection.
+
+Interview Questions
+I found 3 types of questions in written exam: analytical, Basic Programming and Software testing.
+
+
+Interview
+1. Written Test for 1 hour
+Questions covered analytical ability, basic math, basic programming, testing, etc.
+2. Onsite Coding Test
+There was a total of 2 questions and you have to solve them using their prefered programming laguage as forwarded in your email.
+3. HR interview
+
+Continue Reading
+Interview Questions
+You'll be given some text in a file. The text in the file can be left align, right-align, or center align. You need to align those texts with the interviewer's choice.
+
+
+
+Interview
+I sent my CV on their website and got a call for a written exam after one month. Questions from the exam are quite easy but didn't solve them all in time.
+
+Interview Questions
+Reverse string in words wises not characters.
+
+
+Interview
+I was called for written test.
+There was 3 segments.
+1.Math
+2.Coding
+3.QA
+
+Basic mathematics
+Adhoc programming, string manipulation.
+Different test cases for different UI (like in html)
+
+The overall difficulty was average. If you are a CSE graduate and have good command over basic math, coding then you can nail the written test easily.
+
+Interview Questions
+They asked me about OOP, Data structures etc.
+
+
+Interview
+Three Phase Interview.
+1. Written Test : 15 Questions. Math, String, Forms, Testing, Stack, Queue etc
+2. Coding Test : C#, C++. Data Structures Problems and Algorithms in Visual Studio.
+3. Viva : Overall Knowledge of Programming.
+
+Interview Questions
+Basic Programming and Software Testing Problems
+
+
+Interview
+They have 3 steps : Written ,Coding,Viva
+they took 1 month overall. They called me for coding test after 25 days of written test.Then i perticipate there.Then Rejected. After every steps they will notify your result with an E-Mail and phone call.
+
+Interview Questions
+Coding test question is same as previous exam ! I dont know why they dont change their question .
+First question was about center aligning string from a plain string
+Second question was about binary hierarchical tree that can make parent child relationship.
+If you can solve first problem ,but you cant write code for second problem they will not hire you . Make sure you can solve second problem . The question is same ,so you need to find answers from Ex- Enosis Employee at any how . A continious same tree problem can't judge you overall! Be patient, try another company if you cant hire by them
+
+One more tipis:
+They take coding interview in C# language with Visual Studio(Not Visual Studio Code). You need to complete a method function in class . You need to pass value to another method to show output .
+
+
+Interview
+After dropping my cv I was called for written test. There was analytical, coding and qa questions. There was five analytical question each of 1 mark and 6 coding problem each having 5 marks
+
+Interview Questions
+Reverse every word of a sentence.. like "I eat" to "I tae".
+2 Answers
+Remove fourth character of a string.
+Answer Question
+Take input from file where each line contains a integer and find average
+
+
+Interview
+I applied online. There was two phase of interview. First phase was written test covering basic analytical ability, basic coding question etc. Second phase was practical coding test. I was given two problems to solve. Overall process took around 1 month.
+
+Interview Questions
+Reverse words of a sentence
+
+
+Interview
+The interview consisted of three phases. Written test, Coding test and HR interview. Written test consisted mathematical questions, programming problems (Code writing and error tracing) and few design questions. Coding test was quite hard, there were two programming task. The first problem was easy but the second one required data structure and algorithms.
+
+Interview Questions
+While coding test the interviewer asked questions about the code I wrote, then modified the problem and asked if the logic behind the code changes or not. Then asked for alternative ways to do the task.
+
+
+Interview
+Same written questions repeated
+4 mathematical problem, 7 coding problem ( you can write code in any language you prefer) , 5 problem related to testing,
+Time one hour, try to finish quickly
+There were 2 sets of Questions
+
+Interview Questions
+Oop
+
+
+Interview
+The first step is a written assessment. It consists of three sections - Analytical (Maths), Coding (Data structure mainly) and Quality Assurance
+If you get selected you get called for a complex coding or testing session.
+
+Interview Questions
+Showed a webpage and asked the possible issues.
+
+
+Interview
+Well, it was a written test of 15 questions and time was 1hour. They prefer any ICPC/NCPC contestant more. So, guess that's why I didn't get my chance though my exam was great.
+
+Interview Questions
+Topics were
+1. Analytical ability
+2. Basic programming
+3. Software testing
+
+
+Interview
+You have to seat for a 1 hour long written test at first. The questions are very easy. If you perform good on written test, they will call you for a coding session.
+
+Interview Questions
+For Coding session: Right align a Text, Building from parent-child relation, building tree postfix notation etc
+
+
+Interview
+The selection process was structured in 3 steps:
+
+1. Written Test: Included analytical question, basic programming problem and bug identification or testing problem. The test was intended for both development and QA position.
+
+2. Coding Test: Had to work in an existing project. Given a left aligned string and had to write function for aligning it right based on given line size and atomicity of word constraint.
+
+3. Short Viva or Interview
+
+Interview Questions
+What is Vector in C++ STL?
+Answer Question
+Why do you want to work as a Software Engineer?
+
+
+Interview
+At first an written exam was held.
+Array based questions. String related problems.There are actually 7-8 programming problms.
+At the end, there was 5/7 testing questions. After being selected,in the written exam, they call for the lab test.At last there, was a viva or interview phase.
+
+
+Interview
+There is this phase1 coding test, which tests your knowledge about Data Structure, Algorithms, OOP. You are asked to write specific functions like reversing a string, largest common subsequence. You are also asked to write some tests that you will perform when you test a calculator that does simple arithmetical operations.
+
+Interview Questions
+Find out the largest common subsequence
+
+
+Interview
+Submitted the cv using referral and they took a written test initially and then called for a coding test. The written test was straightforward with simple mathematical and basic coding problems. It was easy.
+
+Interview Questions
+In the written test, they asked for a few basic mathematical questions and basic coding questions.
+
+In the coding interview, they asked the same question to everyone. So if your friend go earlier you will get the advantage.
+
+
+
+Interview
+written test basic programming questions maths testing related question. everybody should pass this without any preparation.
+coding test 2 problems 1.5 hours.
+they repeats the same questions over the years.
+process is bad. cant judge you properly.
+viva
+
+Interview Questions
+1 2 3 4 5 6 7 8 9 10 9 8 7 6 5 4 3 2 1 print this in one loop
+
+
+
+Interview
+Written test. Technical viva. HR interview. Very standard question. Very good experience. Ad hoc programming problems were given in written test. Code testing questions. Basic mathematics problem were given. Very good experience.
+
+Interview Questions
+Reverse string
+
+
+Interview
+First, they'll call for a written exam, and based on the performance short-listed candidates will have to attend a coding test. I passed the exam and called for a coding test.
+
+Interview Questions
+Basically, they'll give basic programming problems that you can solve with any languages. Such as, playing with arrays, string manipulation, stack-queue etc.
+
+
+Interview
+First I had to attend a written exam. After passing the written exam, I was called to attend the coding session. I went there, solved given 2 problems and answered a few related solutions, optimization etc. So I was very happy. But Unfortunately, after 2 days, they sent me a rejection mail. I was shocked. I was really interested to know my mistakes. Anyway, they should work on their recruitment process.
+
+Interview Questions
+Written: Very basic level problems. Also they are repetitive.
+Coding: Same right-alighment problem + Tree construction problem.
+
+
+Interview
+I applied through employee referral. The interview process is divided into three parts.
+1. Written Test
+2. Coding Test
+3. Viva
+In written test, there was 4 math questions, 6 coding questions and 5 testing and ui improvement related questions. Coding questions are fairly easy, basic string manipulation, series printing, file i/o processing. In testing Questions, a form snippet is given, you have to write test cases to test the form or denote some points to improve its UI.
+
+Interview Questions
+Q: Print the following series using only one loop.
+10 9 8 7 6 5 4 3 2 1 2 3 4 5 6 7 8 9 10
+1 Answer
+Q: Write a function to read integers from a file and output their average.
+
+
+
+
+Interview
+The sent an email requesting me to apply. After applying, the called for technical tear, code test and then HR tests. Pretty descent questions came in the exam. They know how to measure good talent.
+
+Interview Questions
+Why did you not try for govt job?
+
+
+
+Interview
+The whole interview process is split into 2 steps. Firstly, a written test is taken in their office. There were around 4 analytical questions, 6 questions asking to write some code and 5 SW testing/QA related questions. The questions are not that hard, difficulty might be similar to the easy questions of GRE. The codes were of simple problems like reversing words of a sentence, printing numbers that occur only once in an array etc. The written test was of 1 hour duration. A piece of advice, give revision if you have time, surprising mistakes can be made when you write a code on paper instead of a computer.
+
+After the written test, if you are rejected, they notify you with an email in a few days. If you pass, they schedule a date for coding test and calls you again for that.
+
+In the coding test, 2 problems were given. The first problem was of a string alignment conversion and the second problem was of creating a tree using a node insertion function they will provide based on a list of relationships between some entities. You might be asked about some variations of the problems or the problems from the written test as well. Some questions related to your CV may be asked too.
+
+Interview Questions
+Transform a left aligned text into a right aligned one where the maximum size of output window is given.
+1 Answer
+Given the relationships between some entities and a method to create a tree node (requires name of the node and reference to its parent node, i.e. you can't create a child before its parent), you have to make relationship tree of the entities.
+
+
+
+Interview
+First of all, there is a written test. The questions are pretty straightforward. There are some simple math, analytical, coding, and testing question. Next, there will be a coding test and an interview.
+
+Interview Questions
+Reverse a sentence
+
+
+Interview
+baisc interview with logic and other question. But they also took a coding test after that which the code must be written in c++. the coding test focuses on vector and loop.
+
+Interview Questions
+Write a code for reading all the files in a folder
+
+
+Interview
+Very easy and fundamental written test. Then they call for a coding test. If your competence meets their requirement, you'll get a job offer call. At every step, you'll get a mail and a call.
+
+Interview Questions
+Q1:
+They will provide a code base. A function will be implemented for either right align, left align or center align of a passage. You will need to tweak the given function for expected alignment asked.
+
+Q2:
+id name parent_id
+1 abcd -1
+2 bcdf 1
+3 efgh 2
+normalNode{
+id;
+name;
+parentId;
+}
+treeNode n = add(string name, treeNode parentNode) //normal
+treeNode n = add(string name) //parent
+make a tree out of these given list structure.
+
+
+
+Interview
+There are 3 steps of selection.
+1. Written test
+2. Coding test
+3. Technical Interview
+Each of the tests are evaluated separately. And one has to qualify each of them before getting to the next step.
+Written test is taken on basic programming and analytic skills. There are some easy but tricky coding problems, mathematical problems, SQL queries and some GUI related questions. All of these can answered efficiently if the candidate has a good base in programming and subject knowledge. No preparation required. The test duration is 1 hours and location is usually the office premise.
+
+Interview Questions
+Write a function to reverse each word of a given string
+
+
+
+Interview
+I was interviewed by this company a few months ago. I was faced a written exam first. The questions was similar to previous written exam. I passed the exam and called for a technical interview. But i was rejected in that technical exam.
+
+Interview Questions
+Basic programming, analytical, testing and debugging questions
+1. Find the duplicates elements among arrays.
+2. Sum two numbers from the file inputs etc
+
+
+
+Interview
+First they call for written test and its was 1 hour written test. Then if you passed the written test they will call you for interview session.In interview they will check your programming skill.
+
+Interview Questions
+first they call for written test thats mean programming skill
+
+
+
+Interview
+The Interview took place in three phases:
+
+1. Applying to Enosis Solutions.
+2. Getting shortlisted for the written exam.
+3. Getting shortlisted for the technical exam.
+
+After applying and getting shortlisted for the recruitment, I went there for my written exam. There were 4 analytical problems, 6 programming problems and 5 system testing problems. We were given 1 hour of time to solve them all. So BE AWARE of time. The problems were really easy. Analytical problems were from Geometry, Basic Math, Age calculation etc. And the programming problem section was basic. If you have gone through your basic C programming course in your academic life, you shouldn't face any problem. The testing part consisted of testing different OOP classes and applications.
+
+After some days, I got to know that I was selected for the technical exam. The technical exam will be conducted by a senior software engineer who will help you understand the environment and the problems.
+
+The worst part begins HERE. From the very 2017, the same questions with same Visual Studio environment have been asking out to candidates and they chose candidates from the same implementation knowledge! After my technical exam, I shared my coding experience with one of my friends who was waiting for his technical exam and guess what? He got the SAME question with same environment and solved all the problems ( there are two(2) problems in total. If you can solve the first one,then you will be given the second one. )AND he got the job too! My friend has a sound programming background. Whether we had the discussion or not, he could have managed the job easily. But should it be the correct WAY for judging a candidate? Should you judge a candidate by throwing a problem to him like " this is our personal project and this is our code base, align the string from left to right " and same problem for ALL the candidate from 2017?
+
+It took some time to understand their environment and I solved the tasks they gave to me. But I was told that I took much time in my first problem so they can't enroll me in the Software Engineer section. They further offered me in QA section and I happily declined.
+
+Interview Questions
+Align a string to right from left.
+
+
+
+Interview
+There were 3 phases. 1.Written 2.Verbal Interview 3. Coding Test
+Written part was very basics from OOP, probability maths, geometry, output of a program etc.
+Verbal interview consists of some technical questions based on previous works described in CV and some casual questions.
+In technical test, two problems were given but beware of time.
+
+Interview Questions
+String right alignment , Map Vector Tree related problems.
+
+
+Interview
+At first they asked for a written exam, then interview at the premises, and then a short viva exam. After that the process is done. They are very friendly. The written test was so easy but coding test is a bit harder.
+
+Interview Questions
+What is OOP? what is vector?
+
+
+Interview
+A written exam that tests coding, quality assurance, and basic math logic. Candidates can choose to opt-in for what jobs they are applying for or not applying for.
+
+If the candidate passes the exam, he/she would then attend a coding exam with an employed senior individual of Enosis. They are very helpful.
+
+Interview Questions
+The interviewer asked some basic optimization questions regarding questions in the coding exam.
+
+
+Interview
+They have been using the same interview process including the same questions for many years.
+First, you have to attend the written test which consists of some mathematical, coding and testing problems which are quite easy.
+Next, you are called in for the coding interview. You are asked to solve two questions which are also always repeated.
+In the final stage, you are called by HR.
+
+Interview Questions
+You are asked to write the code for right-aligning a text in a text-box.
+
+
+Interview
+1. Written Exam.
+2. Programming Test
+3. Interview
+
+*Written Exam was for one hour. Basic Programming Problems.
+*Programming test was only for selected individuals. I think they meant to choose whom have good competitive programming background.
+*Selected Individuals. Mostly to settle the salary.
+
+Interview Questions
+1. Take input from file.
+
+
+
+Interview
+At first they called for a onsite written exam where questions were to test the programming basic of the candidates.
+After that I was asked for a coding test. Where one person brought me to a room where there was a laptop. And you will have to use c++ for the coding test.
+
+Interview Questions
+During the coding test they asked me to align some string to the right.
+
+
+Interview Questions
+Programming Question :
+1. Reverse string ( input=abc, output=cba)
+2. Reverse word
+3. Check duplicate elements... etc
+
+Testing Question:
+1. They will give a picture of a software and tell you to find the testing features
+2. Finding errors from code
+
+
+Interview
+They will shortlist you by going through your CV. Then you will be invited to a written test which is about 1 hour. There will be about 14-15 questions to test your coding skills. Also some analytical questions. After passing the written part you will be called for the system testing. They will inform you within 7 days whether you are selected or not. But the saddest and worst part about this company is they don't hire a girl. May be because of their personal reasons or what so. But i found it really very unfair. It's like no matter how good you are in your tests they won't hire you if you are a girl.
+
+Interview Questions
+questions are like reverse array,print multiple of 3's and also some analytical questions.
+
+
+Interview
+A written test is taken which was pretty easy. Simple math, easy coding problems and some questions regarding testing were given.
+
+After that, a coding test was situated where 2 problems were asked to solve. 1st problem was to make text right aligned. 2nd problem was to output a directory like structure given a vector representing child-parent relationship. Interviewer failed to properly describe 2nd problem which was pretty disappointing.
+
+Interview Questions
+How would you implement center aligned text?
+
+
+Interview
+No verbal interview if I don't consider over the phone informal conversations as interviews. A written test was followed by a coding test. I felt that the Written test was too trivial to differentiate candidates. The worst part was candidates appearing for the test on different days happened to get the exact same questions. Same thing happened in the coding interview too.
+Coding interview Setup was good, completing some functions in the backend of a C++ GUI application. All logical, they described the APIs to use very well. Still they could've told the candidates about the coding environment beforehand as does some online coding interviews. Still the worst part is candidates appearing on different dates get the exact same problems to solve making it really unfair for the earlier candidates.
+
+Interview Questions
+To describe myself informally
+
+
+Interview
+The interview process for the position of Software Engineer includes three levels. First you will be called for a written exam, after two weeks of that they will let you know if you have successfully passed the exam or not and will call you for an interview and a coding test.
+
+Interview Questions
+The written exam was of 1 hour and included the following questions:
+
+(1) Write a function that will receive a string as an input and will return the string in reverse order.
+
+(2) Write a function that will print the following series of numbers using only one loop:
+
+"1,2,3,4,5,6,7,8,9,10,9,8,7,6,5,4,3,2,1"
+
+(3) Write a function that will print all the multiples of 3 between 1-200 ( in reverse order )
+
+There were other programming questions as well but of the same difficulty level. Along with the coding questions there were some analytical and QA questions as well. And for me the best part of this exam was there's no language specification. You can answer all the coding questions in whichever programming language you are comfortable with.
+
+So, after giving the exam I was impressed to know that they basically want to see how much problem solving skills do you have rather than evaluating you by the number of languages and frameworks you know.
+
+
+Interview
+First if you get shortlisted or manage to get a referral they will call you to sir for a written test. The test is very easy. 5-7 programming problems. anyone with basic programming knowledge can answer them . there will be 3-4 GRE standard math problems . 1-2 questions about UI/testing . and basic database questions . If you pass the written interview they will call you for a coding test . they will ask you to write some code in C++ in visual studio.
+
+Continue Reading
+Interview Questions
+1.Reverse a string ( eg: input : cats and dogs , output : dogs and cats )
+2. print the series using only one loop 1 2 3 4 5 6 7 8 9 10 9 8 7 6 5 4 3 2 1
+3. find duplicates in an array.
+4. print multiples of 3 from 200 to 1
+etc
+
+coding test :
+give a window size . some texts are left align , make it right align .
+
+
+
+Interview
+it was a very lengthy and boring process. first they take written exam in February. then technical interview in march. then skill test in April.
+
+In written exam,
+1. there is some basic questions from math like simple probability finding, finding age of father from son's age, angle finding, perimeter, circle related problem. very easy questions. it may have 1-2 mcq.
+2. Then there is coding questions. first questions will be - what are the basic concepts of OOP and write a code to implement them. after this there will be some coding problem- like string reverse etc. Also there will be some question like- what will be the output of this code and why?
+for example, you will be given a simple recursive code and draw its tree. please read about constructor calling.
+1 2 3 4 5 6 7 8 9 10 9 8 7 6 5 4 3 2 1 write this code in one loop.
+
+3. then there will be sql related questions. like write sql queries. - find the max, 2nd max salary, swap two columns of two table etc. practice some query. it may have 1-2 mcq.
+
+4. then there will be questions from QA. like difference among white,black, gray box testing. then there will be picture find out diff in those pictures, then there will be some scenario - you have to write how will you test it or how you will you improve it.
+very easy questions. write as your wish.
+
+last questions will be what is your most memorable achievement, describe... :P
+
+for written section I write what I remember from my written exam.. Don't worry questions are very easy.
+
+In first interview,
+there will be two persons. one is hr and another is technical. first question will be describe your self...:P
+then technical will ask question from your CV. most question from projects. easy basic questions. then hr will ask about your future plan,expected salary(:D), your family etc....
+
+third time they call you for skill test.
+
+i was given a test which was right align, i had to make it left align. you have code in visual studio 2010 in C++. it was a windows application. you just need to edit the right align code to make it left align. there is some other alignment function , they may tell you write code for them also...:P
+about visual studio 10, if you write something like this:
+vector<int>vc;
+for(int i=0; i<vc.size();i++) // your code will not run. i faced this problem which cost me huge time.. :(
+
+Good Luck!!!
+
+Interview Questions
+what is ajax? why we use it?
+
+
+
+Interview
+There were 3 phases. 1.Written 2.Verbal Interview 3. Coding Test
+Written part was very basics from OOP, probability maths, geometry, output of a program etc.
+Verbal interview consists of some technical questions based on previous works described in CV and some casual questions.
+In technical test, two problems were given but beware of time.
+
+Interview Questions
+design the given program with OOP concept.
+
+
+
+Interview
+First there was Written test. After a few days there was Verbal test. Then there was coding test.
+The written test contained some algorithm questions, some basic programming, testing questions.
+The verbal interview had software engineering related questions. The coding test was basic type, implementing skill etc.
+
+Interview Questions
+Agile development knowledge
+
+
+Interview
+Written Test of 2 hours. Question includes basic coding, Mathematics and english. Then Oral Interview (around 20 min). No technical question were asked here, Next phase was coding test. But i didn't get call. But I was pretty sure about my acceptance because my written test and oral interview went great. I was very disappointed after getting their rejection mail.
+
+Interview Questions
+Write code of 1st 100 Prime number series, Fibonnaci series. Testing related questions.
+
+

@@ -1,0 +1,1 @@
+{"name":"Local: 9","url":"f:\\CF_A\\phitron\\C_Programming\\C_Programming\\9.2.insert_element_into_array.cpp","tests":[{"id":1681619265154,"input":"5\n10 20 30 40 50\n0 100","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CF_A\\phitron\\C_Programming\\C_Programming\\9.2.insert_element_into_array.cpp","group":"local","local":true}
