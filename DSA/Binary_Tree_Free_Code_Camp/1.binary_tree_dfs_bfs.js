@@ -46,23 +46,7 @@ function dfs(root) {
     dfs(root.right);
 }
 
-dfs(root);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// dfs(root);
 
 
 function recursiveDfs(root) {
@@ -111,7 +95,7 @@ function iterativeBfs(root) {
 }
 
 
-// console.log(recursiveDfs(root));
+console.log(recursiveDfs(root));
 // console.log(iterativeDfs(root));
 // console.log(iterativeBfs(root));
 
