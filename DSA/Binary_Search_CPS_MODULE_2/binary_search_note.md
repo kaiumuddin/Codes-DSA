@@ -41,7 +41,7 @@
         - R = M
         - L = M + 1
 
-    - When L <= R
+    - When L + 1 < R
     - Include M in Search space, bcz we are not cheking if M is the ans
         - R = M
         - L = M

@@ -1,6 +1,6 @@
 const display_arr = (arr, i = 0) => {
     if (i === arr.length) return;
-    
+
     console.log(arr[i]);
     display_arr(arr, i + 1);
 };

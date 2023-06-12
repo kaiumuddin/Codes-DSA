@@ -14,7 +14,7 @@ var first_index = (arr, target, i = 0) => {
     if (i === arr.length) return -1;
 
     let faith = first_index(arr, target, i + 1);
-    return arr[i] == target ? arr[i] : faith;
+    return arr[i] == target ? i : faith;
 };
 
 console.log(first_index([-5, 34, 342, 34, 32], 342));

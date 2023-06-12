@@ -14,7 +14,7 @@ const head =
 
 // A -> B -> C -> D -> null
 
-constprintLinkedListIterative = (head) => {
+const printLinkedListIterative = (head) => {
     let curr = head;
     while (curr) {
         console.log(curr.val);
@@ -47,7 +47,6 @@ const reverseListRecursive = (curr, prev = null) => {
     newHead = reverseListRecursive(next, curr);
 
     return newHead;
-
 };
 
 // printLinkedListIterative(reverseList(head));

@@ -32,15 +32,10 @@ console.log(linkedListFind(head, 3));
 
 const linkedListFindRecursive = (head, target) => {
     if (head == null) return false;
-    let ans = head.val === target;
-    if (ans == true) return ans;
-    console.log(head.val);
 
-    if (linkedListFindRecursive(head.next, target) == true) {
-        ans = true;
-    }
+    const faith = linkedListFindRecursive(head.next, target);
 
-    return ans;
+    return head.val === target || faith;
 };
 
-console.log(linkedListFindRecursive(head, 8));
+console.log(linkedListFindRecursive(head, 5));

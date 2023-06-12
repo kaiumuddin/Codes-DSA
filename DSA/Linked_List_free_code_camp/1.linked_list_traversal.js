@@ -11,7 +11,6 @@ const head =
             new Node('C',
                 new Node('D', null))));
 
-const l2 = new NewNode('Chandra');
 
 // A -> B -> C -> D -> null
 
@@ -23,7 +22,7 @@ const printLinkedListIterative = (head) => {
     }
 };
 
-printLinkedListIterative(head);
+// printLinkedListIterative(head);
 
 
 const printLinkedListRecursive = (head) => {

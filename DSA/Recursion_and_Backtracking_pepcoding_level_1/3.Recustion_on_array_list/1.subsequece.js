@@ -21,10 +21,8 @@ console.log(subsequence("123"));
 /////////////////////////////////////////////////
 // https://leetcode.com/problems/subsets/description/
 
-/**
- * @param {number[]} nums
- * @return {number[][]}
- */
+
+
 var subsets = function(nums) {
     if (nums.length === 0) return [[]];
 
@@ -38,13 +36,12 @@ var subsets = function(nums) {
 
     return ans;
 };
+console.log(subsets([1, 2, 3]));
+
 // bc -> [--, -c, b-, bc]
 // abc -> [---, --c, -b-, -bc, a--, a-c, ab-, abc]
 
 // High Level Thinking
-// 1. Expection -> 5 pass krle 5 4 3 2 1 print krbe
+// 1. Expectation -> 5 pass krle 5 4 3 2 1 print krbe
 // 2. Faith -> chuto valuer jnno kaj krbe, 4 emne emne print hbe, kmne hbe janar drkr nai
 // 3. Expectation + Faith Relationship
-
-
-

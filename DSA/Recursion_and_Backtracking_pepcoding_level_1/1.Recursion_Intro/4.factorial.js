@@ -5,7 +5,6 @@ const factorial = (n) => {
     const ans = n * faith; // faith + expection
 
     return ans;
-
 };
 
 console.log(factorial(5));
