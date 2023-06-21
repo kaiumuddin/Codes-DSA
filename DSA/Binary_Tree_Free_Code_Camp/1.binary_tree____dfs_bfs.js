@@ -52,12 +52,10 @@ function dfs(root) {
 function recursiveDfs(root) {
     if (root == null) return [];
 
-    const result = [root.val];
-
-    result.push(...recursiveDfs(root.left));
-    result.push(...recursiveDfs(root.right));
-
-    return result;
+    const lvals = recursiveDfs(root.left);
+    const rvals = recursiveDfs(root.right);
+    
+    return [root.val, ...lvals, ...rvals];
 }
 
 function iterativeDfs(root) {

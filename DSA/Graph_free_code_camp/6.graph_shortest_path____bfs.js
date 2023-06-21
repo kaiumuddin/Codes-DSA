@@ -19,11 +19,11 @@ const shortest_path = (edges, nodeA, nodeB) => {
     const visited = new Set([nodeA]);
 
     while (queue.length) {
-        const [curr, distance] = queue.shift();
+        const [currNode, distance] = queue.shift();
 
-        if (curr == nodeB) return distance;
+        if (currNode == nodeB) return distance;
 
-        for (let neighbhor of graph[curr]) {
+        for (let neighbhor of graph[currNode]) {
             if (!visited.has(neighbhor)) {
                 visited.add(neighbhor);
                 queue.push([neighbhor, distance + 1]);

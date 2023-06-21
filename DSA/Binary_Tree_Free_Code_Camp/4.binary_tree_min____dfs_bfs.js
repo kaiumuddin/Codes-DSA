@@ -28,12 +28,10 @@ const root =
 const min_Dfs_Recursive = (root) => {
     if (root == null) return Infinity;
 
-    let ans = Math.min(root.val, Infinity);
+    const lmin = min_Dfs_Recursive(root.left);
+    const rmin = min_Dfs_Recursive(root.right);
 
-    ans = Math.min(ans, min_Dfs_Recursive(root.left));
-    ans = Math.min(ans, min_Dfs_Recursive(root.right));
-
-    return ans;
+    return Math.min(root.val, lmin, rmin);
 };
 
 console.log(min_Dfs_Recursive(root));
@@ -57,4 +55,4 @@ const min_Bfs = (root) => {
 
 };
 
-console.log(min_Bfs(root));
+// console.log(min_Bfs(root));

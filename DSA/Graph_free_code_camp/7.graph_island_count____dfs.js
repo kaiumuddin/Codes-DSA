@@ -1,39 +1,35 @@
-const minimumLand = (grid) => {
+const islandCount = (grid) => {
     const visited = new Set();
-
-    let mini = Infinity;
+    let count = 0;
 
     for (let r = 0;r < grid.length;r += 1) {
         for (let c = 0;c < grid[0].length;c += 1) {
             if (grid[r][c] == "L" && !visited.has(r + ',' + c)) {
-                const size = explore_dfs(grid, r, c, visited);
-                mini = Math.min(mini, size);
+                explore_dfs(grid, r, c, visited);
+                count++;
             }
         }
     }
 
-    return mini;
+    return count;
 };
 
 const explore_dfs = (grid, r, c, visited) => {
     const rowInbounds = 0 <= r && r < grid.length;
     const colInbounds = 0 <= c && c < grid[0].length;
-    if (!rowInbounds || !colInbounds) return 0;
+    if (!rowInbounds || !colInbounds) return;
 
-    if (grid[r][c] === 'W') return 0;
+    if (grid[r][c] === 'W') return;
 
     const pos = r + ',' + c;
-    if (visited.has(pos)) return 0;
+    if (visited.has(pos)) return;
     visited.add(pos);
 
-    let size = 1;
+    explore_dfs(grid, r - 1, c, visited);
+    explore_dfs(grid, r + 1, c, visited);
+    explore_dfs(grid, r, c - 1, visited);
+    explore_dfs(grid, r, c + 1, visited);
 
-    size += explore_dfs(grid, r - 1, c, visited);
-    size += explore_dfs(grid, r + 1, c, visited);
-    size += explore_dfs(grid, r, c - 1, visited);
-    size += explore_dfs(grid, r, c + 1, visited);
-
-    return size;
 };
 
 const grid = [
@@ -45,4 +41,4 @@ const grid = [
     'L L W W W'.split(" "),
 ];
 
-console.log(isLandCount(grid));
+console.log(islandCount(grid));

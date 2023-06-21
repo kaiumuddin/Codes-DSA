@@ -14,13 +14,13 @@ const explore = (graph, curr, visited) => {
     if (visited.has(String(curr))) return 0;
 
     visited.add(String(curr));
-    let size = 1;
 
+    let size = 0;
     for (let neighbhor of graph[curr]) {
         size += explore(graph, neighbhor, visited);
     }
 
-    return size;
+    return size + 1;
 };
 
 const graph = {

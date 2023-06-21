@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/coin-change/
 #include <bits/stdc++.h> 
 using namespace std;
 
@@ -35,21 +36,19 @@ public:
     //     }
 
     int solve(vector<int>& coins, int amount) {
-        dp[0] = 0;
+        if (amount == 0) return 0;
+        if (amount < 0) return INT_MAX;
 
-        for (int i = 1; i <= amount; i++) {
-            int mini = INT_MAX;
-            for (int coin : coins) {
-                if (i - coin >= 0) {
-                    int faith = dp[i - coin];
-                    if (faith != INT_MAX) {
-                        mini = min(mini, 1 + faith);
-                    }
-                }
+        if (dp[amount] != -1) return dp[amount];
+
+        int mini = INT_MAX;
+        for (int coin : coins) {
+            int faith = solve(coins, amount - coin);
+            if (faith != INT_MAX) {
+                mini = min(mini, 1 + faith);
             }
-            dp[i] = mini;
         }
-        return dp[amount];
+        return dp[amount] = mini;
     }
 
     int coinChange(vector<int>& coins, int amount) {

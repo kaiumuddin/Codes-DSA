@@ -50,24 +50,34 @@ void insertAtTail(Node*& head, Node*& tail, int val) {
     tail = tail->next;
 }
 
-void deleteTail(Node*& tail) {
+void deleteTail(Node*& head, Node*& tail) {
     if (tail == NULL) return;
 
     Node* deleteNode = tail;
     tail = tail->prev;
-    tail->next = NULL;
-
     delete deleteNode;
+
+    if (tail == NULL) {
+        head = NULL;
+        return;
+    }
+
+    tail->next = NULL;
 }
 
-void deleteHead(Node*& head) {
+void deleteHead(Node*& head, Node*& tail) {
     if (head == NULL) return;
 
     Node* deleteNode = head;
     head = head->next;
-    head->prev = NULL;
-
     delete deleteNode;
+
+    if (head == NULL) {
+        tail = NULL;
+        return;
+    }
+
+    head->prev = NULL;
 }
 
 void deleteAt(Node*& head, Node*& tail, int pos) {
@@ -76,11 +86,11 @@ void deleteAt(Node*& head, Node*& tail, int pos) {
         return;
     }
     if (pos == 0) {
-        deleteHead(head);
+        deleteHead(head, tail);
         return;
     }
     if (pos == size(head) - 1) {
-        deleteTail(tail);
+        deleteTail(head, tail);
         return;
     }
 
@@ -102,12 +112,12 @@ int main() {
     // insertAtTail(head, tail, 20);
     // insertAtTail(head, tail, 30);
     // insertAtTail(head, tail, 40);
-    // insertAtTail(head, tail, 50);
-
+    insertAtTail(head, tail, 50);
     // deleteAt(head, tail, 0);
-    deleteTail(tail);
+
     printForw(head);
-    printBack(tail);
+    deleteTail(head, tail);
+    printForw(head);
 
 
 

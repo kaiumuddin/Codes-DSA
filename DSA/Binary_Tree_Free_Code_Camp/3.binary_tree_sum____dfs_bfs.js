@@ -28,12 +28,10 @@ const root =
 const sum_Dfs_Recursive = (root) => {
     if (root == null) return 0;
 
-    let ans = root.val;
+    const lsum = sum_Dfs_Recursive(root.left);
+    const rsum = sum_Dfs_Recursive(root.right);
 
-    ans += sum_Dfs_Recursive(root.left);
-    ans += sum_Dfs_Recursive(root.right);
-
-    return ans;
+    return root.val + lsum + rsum;
 };
 
 console.log(sum_Dfs_Recursive(root));
@@ -56,4 +54,4 @@ const sum_Bfs = () => {
     return ans;
 };
 
-console.log(sum_Bfs(root));
+// console.log(sum_Bfs(root));
