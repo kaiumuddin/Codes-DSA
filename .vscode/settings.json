@@ -42,7 +42,8 @@
 		"type_traits": "cpp",
 		"typeindex": "cpp",
 		"valarray": "cpp",
-		"iomanip": "cpp"
+		"iomanip": "cpp",
+		"map": "cpp"
 	},
 	"cph.general.onceMaintainerMessage": false
 }
